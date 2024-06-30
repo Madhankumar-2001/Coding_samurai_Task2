@@ -1,4 +1,4 @@
-# Coding_samurai_Task2
+# Weather forecast using python Coding_samurai_Task2
 **Task-2**
 
 *******************************
